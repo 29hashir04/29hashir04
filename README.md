@@ -2,7 +2,7 @@
 
 **AI Automation Specialist** based in Karachi, Pakistan. I build intelligent workflows that connect apps, automate repetitive processes, and add AI capabilities to real business operations — using tools like n8n, Zapier, Make, and Groq.
 
-- 🤖 2+ years building AI-powered automations for clients
+- 🤖 Building AI-powered automations for clients since April 2026
 - 🔗 Specialist in **n8n**, **Zapier**, **Make (Integromat)**, and **LLM integrations**
 - 🧠 I connect AI models (Groq, OpenAI, Claude) into real workflows that actually ship
 - 💼 Open to freelance & collaboration — [hire me](mailto:hasheralwara@gmail.com)
