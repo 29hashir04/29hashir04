@@ -5,7 +5,7 @@
 - 🤖 Building AI-powered automations for clients since April 2026
 - 🔗 Specialist in **n8n**, **Zapier**, **Make (Integromat)**, and **LLM integrations**
 - 🧠 I connect AI models (Groq, OpenAI, Claude) into real workflows that actually ship
-- 💼 Open to freelance & collaboration — [hire me](mailto:hasheralwara@gmail.com)
+- 💼 Open to freelance & collaboration — [hire me](https://www.upwork.com/freelancers/~01e60e630882e96ddc)
 
 ---
 
